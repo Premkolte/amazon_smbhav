@@ -1,14 +1,5 @@
 Amazon Smbhav Hackathon 2024: Prototype Phase Submission Template
 
-Congratulations on Reaching the Prototype Phase!
-Your innovative ideas are coming to life, and we're thrilled to see your progress. This template will guide you through the submission process for the prototype phase. Your work has the potential to revolutionise how small and medium businesses operate. Let's showcase your creation!
-Instructions:
-Sections 1-3 should be carried forward from your ideation phase submission. 
-Section 4 - Review & update to reflect any changes or refinements in your project.
-Complete the new sections with details about your prototype.
-Ensure all links are working and accessible.
-Don't hesitate to highlight your achievements and the unique aspects of your prototype.
-
 1. Team Details
 Team Name: Error 64
 Team Members:
